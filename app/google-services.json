@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752258612858",
+    "project_id": "georeportes-app",
+    "storage_bucket": "georeportes-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752258612858:android:dae8a009e3a0511ce345c3",
+        "android_client_info": {
+          "package_name": "mx.edu.utez.georeportes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpbS-4rDgC_oaSYskxbkDQaJG49fTbODo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
